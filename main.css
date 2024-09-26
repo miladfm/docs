@@ -3690,12 +3690,6 @@
   fill: #667085;
 }
 
-[data-cck-theme-name=frame-x] {
-  background-color: var(--base-surface-2);
-  padding: 0 16px;
-  background-color: var(--base-surface-2);
-  padding: 0 16px;
-}
 [data-cck-theme-name=frame-x] .cck-button {
   display: inline-flex;
   justify-content: center;
@@ -4206,12 +4200,13 @@
 [data-cck-theme-name=frame-x] .cck-form-field--focused .cck-form-field__wrapper {
   border: 1px solid var(--state-brand-active);
   outline: 1px solid var(--state-brand-active);
-}
-[data-cck-theme-name=frame-x] .cck-form-field--focused .cck-form-field__wrapper:hover {
-  background-color: var(--base-fill-1);
+  background-color: var(--base-surface-2);
 }
 [data-cck-theme-name=frame-x] .cck-form-field--disabled .cck-form-field__wrapper {
   background-color: var(--base-fill-1);
+  -webkit-user-select: none;
+          user-select: none;
+  pointer-events: none;
 }
 [data-cck-theme-name=frame-x] .cck-form-field__wrapper {
   width: 100%;
@@ -4221,16 +4216,32 @@
   border-radius: var(--radi-6);
   border: 1px solid var(--base-border);
   outline: 1px solid transparent;
-  padding: 0 var(--spacing-7) 0 var(--spacing-8);
+  overflow: hidden;
+  background-color: var(--base-surface-1);
 }
 [data-cck-theme-name=frame-x] .cck-form-field__size--sm.cck-form-field--with-input .cck-form-field__wrapper, [data-cck-theme-name=frame-x] .cck-form-field__size--sm.cck-form-field--with-select .cck-form-field__wrapper {
   height: 36px;
 }
+[data-cck-theme-name=frame-x] .cck-form-field__size--sm .cck-input,
+[data-cck-theme-name=frame-x] .cck-form-field__size--sm .cck-leading,
+[data-cck-theme-name=frame-x] .cck-form-field__size--sm .cck-trailing {
+  font: var(--text-sm-font-medium);
+}
 [data-cck-theme-name=frame-x] .cck-form-field__size--md.cck-form-field--with-input .cck-form-field__wrapper, [data-cck-theme-name=frame-x] .cck-form-field__size--md.cck-form-field--with-select .cck-form-field__wrapper {
   height: 44px;
 }
+[data-cck-theme-name=frame-x] .cck-form-field__size--md .cck-input,
+[data-cck-theme-name=frame-x] .cck-form-field__size--md .cck-leading,
+[data-cck-theme-name=frame-x] .cck-form-field__size--md .cck-trailing {
+  font: var(--text-base-font-medium);
+}
 [data-cck-theme-name=frame-x] .cck-form-field__size--lg.cck-form-field--with-input .cck-form-field__wrapper, [data-cck-theme-name=frame-x] .cck-form-field__size--lg.cck-form-field--with-select .cck-form-field__wrapper {
   height: 58px;
+}
+[data-cck-theme-name=frame-x] .cck-form-field__size--lg .cck-input,
+[data-cck-theme-name=frame-x] .cck-form-field__size--lg .cck-leading,
+[data-cck-theme-name=frame-x] .cck-form-field__size--lg .cck-trailing {
+  font: var(--text-lg-font-medium);
 }
 [data-cck-theme-name=frame-x] .cck-form-field__feedback-wrapper {
   display: flex;
@@ -4257,6 +4268,21 @@
 }
 [data-cck-theme-name=frame-x] .cck-form-field--with-textarea .cck-form-field__wrapper {
   padding: 10px 10px 10px 16px;
+}
+[data-cck-theme-name=frame-x] .cck-form-field--with-textarea .cck-form-field__wrapper:hover:not(:has(textarea:focus-visible)) {
+  background-color: var(--base-fill-1);
+}
+[data-cck-theme-name=frame-x] .cck-form-field--with-select .cck-form-field__wrapper {
+  padding: 0 var(--spacing-6) 0 var(--spacing-7);
+}
+[data-cck-theme-name=frame-x] .cck-form-field--with-select .cck-form-field__wrapper:hover {
+  background-color: var(--base-fill-1);
+}
+[data-cck-theme-name=frame-x] .cck-form-field--with-input .cck-form-field__input-wrapper {
+  padding: 0 var(--spacing-6) 0 var(--spacing-7);
+}
+[data-cck-theme-name=frame-x] .cck-form-field--with-input .cck-form-field__input-wrapper:hover:not(:has(input:focus-visible)) {
+  background-color: var(--base-fill-1);
 }
 [data-cck-theme-name=frame-x] .cck-hint {
   font: var(--text-sm-font-medium);
@@ -4546,6 +4572,19 @@
 [data-cck-theme-name=frame-x] .cck-label__required-marker {
   margin-left: 4px;
 }
+[data-cck-theme-name=frame-x] .cck-leading {
+  background-color: var(--base-surface-2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font: var(--text-base-font-medium);
+  color: var(--text-dark-tertiary);
+  gap: var(--spacing-4);
+  padding: 0 var(--spacing-7);
+  cursor: default;
+  -webkit-user-select: none;
+          user-select: none;
+}
 [data-cck-theme-name=frame-x] .cck-menu {
   display: flex;
   flex-direction: column;
@@ -4831,10 +4870,16 @@
 [data-cck-theme-name=frame-x] .cck-select__overlay .cck-overlay__backdrop {
   background-color: rgba(0, 0, 0, 0);
 }
+[data-cck-theme-name=frame-x] .cck-select__dropdown-icon-wrapper {
+  transition: 300ms transform;
+}
 [data-cck-theme-name=frame-x] .cck-select__dropdown-icon-wrapper .cck-svg-icon {
   width: var(--icon-md);
   height: var(--icon-md);
   fill: currentcolor;
+}
+[data-cck-theme-name=frame-x] .cck-select--opened .cck-select__dropdown-icon-wrapper {
+  transform: rotate(180deg);
 }
 [data-cck-theme-name=frame-x] .cck-suffix {
   flex-grow: 0;
@@ -4856,9 +4901,11 @@
   color: var(--text-dark-tertiary);
 }
 [data-cck-theme-name=frame-x] .cck-textarea::-webkit-resizer {
-  width: 16px;
-  height: 16px;
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="%238897AE"><path d="M2.4,12.6c-0.3-0.3-0.3-0.7-0.1-0.9l9.4-9.4c0.2-0.2,0.6-0.1,0.9,0.1s0.3,0.7,0.1,0.9l-9.4,9.4C3.1,12.9,2.7,12.8,2.4,12.6z M7.1,12.8c-0.3-0.3-0.3-0.6-0.2-0.8L12,6.9c0.2-0.2,0.5-0.1,0.8,0.2c0.3,0.3,0.3,0.6,0.2,0.8L7.8,13C7.7,13.1,7.3,13,7.1,12.8z"/></svg>');
+  width: 9px;
+  height: 9px;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 9 9" fill="none"><path d="M4 4L7.2929 0.707105C7.92286 0.0771402 9 0.523309 9 1.41421V6C9 7.65685 7.65685 9 6 9H1.41421C0.523309 9 0.077142 7.92286 0.707107 7.29289L4 4Z" fill="%23A1A1AA"/></svg>');
+  background-repeat: no-repeat;
+  background-position: bottom right;
 }
 [data-cck-theme-name=frame-x] .cck-toggle {
   -webkit-user-select: none;
@@ -5112,6 +5159,19 @@
 }
 [data-cck-theme-name=frame-x] .cck-toggle__knob.cck-toggle--disabled .cck-toggle__label, [data-cck-theme-name=frame-x] .cck-toggle__switch.cck-toggle--disabled .cck-toggle__label {
   color: var(--base-disabled);
+}
+[data-cck-theme-name=frame-x] .cck-trailing {
+  background-color: var(--base-surface-2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font: var(--text-base-font-medium);
+  color: var(--text-dark-tertiary);
+  gap: var(--spacing-4);
+  padding: 0 var(--spacing-7);
+  cursor: default;
+  -webkit-user-select: none;
+          user-select: none;
 }
 .hidden {
   display: none;
