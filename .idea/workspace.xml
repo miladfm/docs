@@ -10,138 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3bd043-fe8f-4ff2-86f2-1a0cfefd766b" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/1929.781dc39e.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2503.f6dce4cf.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3600.d2ba44ce.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4094.c691a190.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4094.c691a190.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5828.f0fbf97b.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7357.a4761dbe.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7357.a4761dbe.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/787.0fcb4bf9.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7983.39c45869.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8369.0e0eed42.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8430.919f8e2e.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/880.759d3533.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9564.ddbe51a2.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9564.ddbe51a2.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/button-index-stories.ccebdcd5.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkbox-index-stories.084faea9.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chip-index-stories.21423e13.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chip-list-index-stories.f1b40f9f.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocokits-icon-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocokits-icon-green.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocokits-icon-light.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocokits-logo-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocokits-logo-light.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/default-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divider-index-stories.d56e2251.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc-page-header-effect-shark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/form-field-index-stories.bc23d1fc.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frameX-logo-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frameX-logo-light.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-button-index-stories.998dee2c.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input-index-stories.2df37fd8.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/install-mdx.5554f07d.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ec9bf90d.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu-index-stories.f6665bec.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/overlay-index-stories.f29ad1ed.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/radio-button-index-stories.77622ed7.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/radio-group-index-stories.2a207daa.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime~main.40889938.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/apps-angular-kits-doc-storybook-9/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/apps-angular-kits-doc-storybook-9/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-actions-2/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-actions-2/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-backgrounds-3/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-backgrounds-3/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-controls-1/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-controls-1/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-measure-6/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-measure-6/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-outline-7/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-outline-7/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-toolbars-5/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-toolbars-5/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-viewport-4/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-viewport-4/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/packages-internal-storybook-theme-switcher-src-preset-8/manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/packages-internal-storybook-theme-switcher-src-preset-8/manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/storybook-core-server-presets-0/common-manager-bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-addons/storybook-core-server-presets-0/common-manager-bundle.js.LEGAL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-common-assets/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-bold-italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/WithTooltip-Y7J54OF7-CEHQ77YF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-E3WK6ZOZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-E6ABNH5R.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-FEE35O7J.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-S4VOIVUE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-XCO5HRLK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-XP3HGWTR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/formatter-B5HCVTEV-7DCBOGO6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/globals-module-info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/globals-runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/globals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-manager/syntaxhighlighter-JOJW2KGS-VF6EEVPI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-preview/globals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sb-preview/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/select-index-stories.f4f60905.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-doc-page-preview-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-manager-cck-components.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-manager-theme-switcher.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-preview-theme-switcher.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-theme-switcher-token.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg-icon-index-stories.c199c5c9.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg-icons-list-index-stories.d0d584eb.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg-icons-list-index-stories.d0d584eb.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/textarea-index-stories.80ae5039.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-tokens-token-mdx.bf3b20e5.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-button-mdx.2176ca37.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-checkbox-mdx.4e56fabb.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-chip-list-mdx.86b75a83.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-chip-mdx.240719b0.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-divider-mdx.fa7eee98.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-form-field-mdx.86680b12.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-icon-button-mdx.bfcbb1be.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-input-mdx.f02cbd3f.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-menu-mdx.b8e406d7.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-radio-button-mdx.0a1be5a1.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-radio-group-mdx.e7788028.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-select-mdx.7d80ace5.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-svg-icon-mdx.eb23d697.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-textarea-mdx.70663d66.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-toggle-mdx.587df7d5.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toggle-index-stories.af4bc5d1.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-common-mdx.8edbd431.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-differs-mdx.d80debc7.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-ensure-mdx.ba275188.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-event-listener-mdx.3063c534.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-observer-mdx.2214b229.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-pipes-mdx.aff67d6e.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-rxjs-mdx.de9f4dc1.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-scroll-mdx.e04f2c1f.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-search-mdx.c129c8f7.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-selection-mdx.27bd75a2.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-signal-mdx.846d7f24.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils-transform-mdx.b0f0a344.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/welcome-mdx.91a79dbf.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,6 +96,7 @@
       <workItem from="1727014613562" duration="57000" />
       <workItem from="1727127023524" duration="58000" />
       <workItem from="1727384524917" duration="809000" />
+      <workItem from="1728027770367" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -420,7 +290,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727466431588</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Update">
+      <option name="closed" value="true" />
+      <created>1728027860373</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728027860374</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update">
+      <option name="closed" value="true" />
+      <created>1728027870112</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728027870112</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
