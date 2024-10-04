@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BitbucketMajeraCodeReviewSettings">
+    <option name="popularEmojiShortcuts">
+      <list />
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e3bd043-fe8f-4ff2-86f2-1a0cfefd766b" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/1929.781dc39e.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2503.f6dce4cf.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3600.d2ba44ce.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4094.c691a190.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4094.c691a190.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5828.f0fbf97b.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7357.a4761dbe.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7357.a4761dbe.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/787.0fcb4bf9.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7983.39c45869.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8369.0e0eed42.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8430.919f8e2e.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/880.759d3533.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9564.ddbe51a2.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9564.ddbe51a2.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button-index-stories.ccebdcd5.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkbox-index-stories.084faea9.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chip-index-stories.21423e13.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chip-list-index-stories.f1b40f9f.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocokits-icon-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocokits-icon-green.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocokits-icon-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocokits-logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocokits-logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/default-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/divider-index-stories.d56e2251.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc-page-header-effect-shark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-field-index-stories.bc23d1fc.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frameX-logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frameX-logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-button-index-stories.998dee2c.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input-index-stories.2df37fd8.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install-mdx.5554f07d.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ec9bf90d.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-index-stories.f6665bec.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overlay-index-stories.f29ad1ed.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio-button-index-stories.77622ed7.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/radio-group-index-stories.2a207daa.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime~main.40889938.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/apps-angular-kits-doc-storybook-9/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/apps-angular-kits-doc-storybook-9/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-actions-2/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-actions-2/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-backgrounds-3/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-backgrounds-3/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-controls-1/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-controls-1/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-measure-6/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-measure-6/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-outline-7/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-outline-7/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-toolbars-5/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-toolbars-5/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-viewport-4/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/essentials-viewport-4/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/packages-internal-storybook-theme-switcher-src-preset-8/manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/packages-internal-storybook-theme-switcher-src-preset-8/manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/storybook-core-server-presets-0/common-manager-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-addons/storybook-core-server-presets-0/common-manager-bundle.js.LEGAL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-common-assets/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-bold-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-common-assets/nunito-sans-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/WithTooltip-Y7J54OF7-CEHQ77YF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-E3WK6ZOZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-E6ABNH5R.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-FEE35O7J.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-S4VOIVUE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-XCO5HRLK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/chunk-XP3HGWTR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/formatter-B5HCVTEV-7DCBOGO6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/globals-module-info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/globals-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/globals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-manager/syntaxhighlighter-JOJW2KGS-VF6EEVPI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-preview/globals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sb-preview/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/select-index-stories.f4f60905.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-doc-page-preview-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-manager-cck-components.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-manager-theme-switcher.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-preview-theme-switcher.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook-theme-switcher-token.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg-icon-index-stories.c199c5c9.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg-icons-list-index-stories.d0d584eb.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg-icons-list-index-stories.d0d584eb.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textarea-index-stories.80ae5039.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-tokens-token-mdx.bf3b20e5.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-button-mdx.2176ca37.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-checkbox-mdx.4e56fabb.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-chip-list-mdx.86b75a83.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-chip-mdx.240719b0.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-divider-mdx.fa7eee98.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-form-field-mdx.86680b12.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-icon-button-mdx.bfcbb1be.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-input-mdx.f02cbd3f.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-menu-mdx.b8e406d7.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-radio-button-mdx.0a1be5a1.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-radio-group-mdx.e7788028.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-select-mdx.7d80ace5.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-svg-icon-mdx.eb23d697.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-textarea-mdx.70663d66.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme-config-ui-components-toggle-mdx.587df7d5.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toggle-index-stories.af4bc5d1.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-common-mdx.8edbd431.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-differs-mdx.d80debc7.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-ensure-mdx.ba275188.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-event-listener-mdx.3063c534.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-observer-mdx.2214b229.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-pipes-mdx.aff67d6e.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-rxjs-mdx.de9f4dc1.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-scroll-mdx.e04f2c1f.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-search-mdx.c129c8f7.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-selection-mdx.27bd75a2.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-signal-mdx.846d7f24.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils-transform-mdx.b0f0a344.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome-mdx.91a79dbf.iframe.bundle.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iH9nlBeRqaVKs4nY0wS1bAc0NJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/miladfaghihi/Desktop/projects/personal/docs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SwiftWorkspaceSettings">
+    <option name="detectedToolchain" value="true" />
+    <option name="toolchainPathValue" value="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3bd043-fe8f-4ff2-86f2-1a0cfefd766b" name="Changes" comment="" />
+      <created>1719136805222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719136805222</updated>
+      <workItem from="1719136806758" duration="3329000" />
+      <workItem from="1719165750627" duration="2222000" />
+      <workItem from="1721329165212" duration="681000" />
+      <workItem from="1721510338070" duration="102000" />
+      <workItem from="1721511959540" duration="696000" />
+      <workItem from="1721589050719" duration="69000" />
+      <workItem from="1722608574196" duration="4248000" />
+      <workItem from="1723991498159" duration="311000" />
+      <workItem from="1725052982434" duration="63000" />
+      <workItem from="1725257404330" duration="732000" />
+      <workItem from="1725573271397" duration="1650000" />
+      <workItem from="1727014613562" duration="57000" />
+      <workItem from="1727127023524" duration="58000" />
+      <workItem from="1727384524917" duration="809000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719136871550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719136871550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719137205845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719137205845</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719138251925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719138251926</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719138567427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719138567427</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719138836348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719138836348</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719139101774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719139101774</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719165793839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719165793839</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719166460673</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719166460673</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <option name="closed" value="true" />
+      <created>1719170843976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719170843976</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update">
+      <option name="closed" value="true" />
+      <created>1721329231179</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721329231179</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update">
+      <option name="closed" value="true" />
+      <created>1721510434488</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721510434488</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update">
+      <option name="closed" value="true" />
+      <created>1721511982763</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721511982763</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update">
+      <option name="closed" value="true" />
+      <created>1721589106336</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721589106336</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update">
+      <option name="closed" value="true" />
+      <created>1722608614061</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722608614061</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update">
+      <option name="closed" value="true" />
+      <created>1722707637662</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722707637662</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update">
+      <option name="closed" value="true" />
+      <created>1723991629034</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723991629034</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update">
+      <option name="closed" value="true" />
+      <created>1725053039714</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725053039714</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update">
+      <option name="closed" value="true" />
+      <created>1725257469098</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725257469098</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update">
+      <option name="closed" value="true" />
+      <created>1725573334042</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725573334042</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update">
+      <option name="closed" value="true" />
+      <created>1727014652491</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727014652491</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update">
+      <option name="closed" value="true" />
+      <created>1727014663769</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1727014663769</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update">
+      <option name="closed" value="true" />
+      <created>1727127075326</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1727127075326</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update">
+      <option name="closed" value="true" />
+      <created>1727384605001</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727384605001</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Update">
+      <option name="closed" value="true" />
+      <created>1727466431588</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727466431588</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+</project>
