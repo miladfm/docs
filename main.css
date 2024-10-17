@@ -4343,10 +4343,11 @@
   flex-direction: column;
   border: 1px solid var(--base-border);
   border-radius: var(--radi-6);
-  padding: var(--spacing-5) 0;
+  padding: 0;
   box-shadow: 0 8px 10px -6px rgba(13, 16, 23, 0.0392156863), 0 18px 22px -4px rgba(13, 16, 23, 0.0784313725);
   margin: 4px 0;
   background-color: var(--base-surface-1);
+  overflow: hidden;
 }
 [data-cck-theme-name=frames-x] .cck-menu__overlay .cck-overlay__backdrop {
   background-color: rgba(0, 0, 0, 0);
