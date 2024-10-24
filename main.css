@@ -3821,7 +3821,7 @@
   font: var(--text-xs-font-medium);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--sm .cck-chip-list__input:first-child {
-  margin-left: var(--spacing-6);
+  margin-left: calc(var(--spacing-6) - 4px);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--md {
   gap: 6px;
@@ -3832,7 +3832,7 @@
   font: var(--text-base-font-medium);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--md .cck-chip-list__input:first-child {
-  margin-left: var(--spacing-7);
+  margin-left: calc(var(--spacing-7) - 4px);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--lg {
   gap: 8px;
@@ -3843,7 +3843,7 @@
   font: var(--text-lg-font-medium);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--lg .cck-chip-list__input:first-child {
-  margin-left: var(--spacing-7);
+  margin-left: calc(var(--spacing-7) - 6px);
 }
 [data-cck-theme-name=frames-x] * {
   box-sizing: border-box;
