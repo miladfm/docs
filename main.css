@@ -3817,7 +3817,7 @@
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--sm .cck-chip-list__input {
   height: 26px;
-  margin-left: var(--spacing-7);
+  margin-left: var(--spacing-5);
   font: var(--text-xs-font-medium);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--sm .cck-chip-list__input:first-child {
@@ -3828,7 +3828,7 @@
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--md .cck-chip-list__input {
   height: 34px;
-  margin-left: var(--spacing-8);
+  margin-left: var(--spacing-6);
   font: var(--text-base-font-medium);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--md .cck-chip-list__input:first-child {
@@ -3839,7 +3839,7 @@
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--lg .cck-chip-list__input {
   height: 44px;
-  margin-left: var(--spacing-9);
+  margin-left: var(--spacing-7);
   font: var(--text-lg-font-medium);
 }
 [data-cck-theme-name=frames-x] .cck-chip-list__size--lg .cck-chip-list__input:first-child {
